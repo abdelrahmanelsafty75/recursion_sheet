@@ -22,7 +22,6 @@ Makefile
 
 # Visual Studio files
 .vs/
-.vscode/
 *.vcxproj*
 *.sln
 
