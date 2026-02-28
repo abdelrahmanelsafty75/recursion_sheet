@@ -1,0 +1,30 @@
+# Executable files
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Build folders
+/build/
+/cmake-build-*/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE files (CLion / JetBrains)
+.idea/
+
+# Visual Studio files
+.vs/
+.vscode/
+*.vcxproj*
+*.sln
+
+# Logs
+*.log
